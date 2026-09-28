@@ -1,16 +1,41 @@
-## Hi there 👋
+ 👋 Hi, I'm Kamran
 
-<!--
-**CodeByBehbudov/CodeByBehbudov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | Frontend Development | AI
 
-Here are some ideas to get you started:
+I'm an aspiring software developer from Germany 🇩🇪 with a strong interest in modern web development and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently training as a **Fachinformatiker für Anwendungsentwicklung**  
+🤖 Expanding my skills in **AI & Software Development**  
+🌱 Currently learning and improving my **Frontend Development** skills  
+🚀 Building practical projects for my developer portfolio
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+## 💻 Current Focus
+
+- 🌐 Responsive Web Development
+- 🎨 Modern Frontend Development
+- 🤖 AI-assisted Software Development
+- 🔧 Git & GitHub
+- 📚 Continuous learning and improving my development skills
+
+## 🚀 Projects
+
+More projects are coming soon.
+
+Currently working on:
+- 🍜 **Sakura Ramen** – Responsive restaurant website
+- 🖥️ **Gaming PC Website** – Frontend web project
+- 💼 **Developer Portfolio** – Personal portfolio website
+
+## 📫 Connect with me
+
+I'm open to connecting with other developers and learning from the developer community.
+
+---
+
+⭐ **Always learning. Always building.**
